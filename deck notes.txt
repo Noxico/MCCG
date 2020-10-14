@@ -1,1 +1,58 @@
+Data to be read from a file
+	* Displayed information
+
+		* name
+		* cost (different colors of mana)
+		* type. Some card have more than 1
+
+			* artifact
+			* conspiracy
+			* creature
+			* enchantment
+			* instant
+			* land
+			* phenomenon
+			* plane
+			* planeswalker
+			* scheme
+			* sorcery
+			* tribal
+			* vanguard
+		* flavor text
+
+			*contains the text heavy part of the card
+			*do I want to separate special effects and flavor?
+	* hidden information
+
+		*when card was printed 
+
+
+Do not know how I will load cards from the file
+
+Chase suggested we load in a couple card manually.
+
+What do i want to do with the manual cards?
+	* load in cards 
+	* able to select which cards i want
+	* able to select as many of the card as i want
+	* able to add as many lands as i want
+	* see deck size 
+	* all will be through terminal at first
+
+
+
 steps:
+	* need a deck class 
+	* need a card class
+	* deck class contains cards
+	* only want to practice with one deck currently 
+	* only really need 6 cards or so to test.
+	* do i save the cards to a file? or do i read from a file to load the cards?
+
+
+
+Brainstorm:
+search tree for sets
+Don’t do what lackey did on card search
+Lackey GUI
+Text file to deck
