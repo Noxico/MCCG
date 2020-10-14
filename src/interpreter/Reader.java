@@ -16,7 +16,7 @@ public class Reader
 		BufferedReader inputFile = new BufferedReader(new InputStreamReader(url.openStream()));
 
 		String lineFromFile;
-		int count = 0;
+		//int count = 0;
 		while ((lineFromFile = inputFile.readLine()) != null)
 		{
 			String[] seporatedLine = lineFromFile.split("	");
