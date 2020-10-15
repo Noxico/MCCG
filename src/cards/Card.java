@@ -13,6 +13,7 @@ public class Card
 	{
 		// TODO Auto-generated method stub
 		System.out.println("I think I got it");
+		System.out.println("martin");
 	}
 
 }
